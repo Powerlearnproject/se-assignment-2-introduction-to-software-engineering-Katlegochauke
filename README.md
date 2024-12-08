@@ -1,16 +1,20 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-ucQIGTc)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15350628&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-2
 Assignment: Introduction to Software Engineering
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering:software engeneering systemecally applies engeering principles, methods and tools to develop and mantain high-quality spftware systems. It involves software product design, development, testing deployment and maitanance of software products.
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Software Development Life Cycle (SDLC):Ech in the SDLC is essential for delivering high-quality software products that meet user needs, adhere to budget and time constraints, and maintain compitibilty with evolving technology platforms.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+Waterfall; sequential approach with distinct phases eg. requirements, design, implementation- flowing downwards like a waterfall
+Agile;Iterative and incremental approach focused on flexibility , collaboration,  and responding to change
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
